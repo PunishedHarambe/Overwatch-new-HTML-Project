@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<!--This is a comment on the official monkey/scientist/winston website-->
 <center>
 <h1><big><em><sup>Overwatch</sup></em><big/></h1>
 <center>
@@ -37,8 +38,27 @@ considering the omnics likely had access to every piece of technology the human 
 
 <center>
 <h4><h1><i><sub><del> Harambe</del> took a bullet for America.</h4></sub></i><br>
+<img src=hanzodragon.gif><br>
 <img src=Genji.gif><br>
 <hr>
 <h5><h1><i><ins> R.I.P <del>Harambe<del/></ins></i><br></h5>
 <img src=Winston.gif>
+<img src=spungebub.gif>
+<img src=monkey.gif>
+<center> Things Harambe likes:<br><li>Dragging children by their ankles</li>
+  <li>Bananas</li>
+  <li>Peanut butter</li>
+  <h2>An ordered HTML list</h2>
+
+<ol>
+  <li>Toffee</li>
+  <li>Mea</li>
+  <li>Cilk</li>
+</ol>
+<ol>
+  <li>Peanut butter</li>
+  <li>Peanutt buttter</li>
+  <li>Peanuttt butttter</li>
+</ol>
+<iframe width="750" height="450" src="https://www.youtube.com/embed/KvZ83DoZZZU"></iframe>
 </html>
