@@ -7,12 +7,12 @@
 <body background="overpapaer.jpg">
 <body>
 <p><b><small><strong>The game itself is set 60 years in the future, but the story really starts a mere
- 30 years down the road. It’s a future brimming with technological advancements, 
+ 30 years down the road. Its a future brimming with technological advancements, 
  teleportation technology, flying cars, laser guns, and clear steps forward in robotics. 
  Mankind developed artificial intelligence, real artificial intelligence, creating sentient 
  robots for the purpose of bolstering manufacturing and creating economic equality worldwide. 
  These robots, called omnics, and their facilities, called omniums, were incredibly common all
- over the world. People existed side by side with omnics, and while it wasn’t exactly utopia, it was peaceful.</strong></small></b><p>
+ over the world. People existed side by side with omnics, and while it wasnt exactly utopia, it was peaceful.</strong></small></b><p>
 
 <p><h2><i>A Broken Peace</i></h2><p>
 
@@ -20,7 +20,7 @@
 rogue, and began churning out armies of militarized omnics that promptly began a 
 global effort to overthrow the human race. Uprisings sprouted up all over the world, 
 because the omniums themselves were scattered all over the world. And despite 
-mankind’s technological prowess, there was very little the individual nations 
+mankinds technological prowess, there was very little the individual nations 
 of the world could do against such a large scale threat. Understandable, 
 considering the omnics likely had access to every piece of technology the human race had.</strong></small></b><p>
 
@@ -28,18 +28,19 @@ considering the omnics likely had access to every piece of technology the human 
 
 <p><b><small><strong>Desperate to fight back, the United Nations came together to try and find
  some kind of solution. Gabrielle Adawe, secretary-general of the UN, formed a 
- team of the world’s best soldiers and best technology, creating an elite strike 
+ team of the worlds best soldiers and best technology, creating an elite strike 
  unit that was hopefully capable of bringing down the threat. This team, called
  Overwatch, was filled with soldiers from all over the world. The appointed 
  leader was a military veteran and member of the soldier enhancement program a
  man from Los Angeles named Gabriel Reyes. His second was another member of the
- same soldier enhancement program and a close friend: John “Jack” Morrison.</strong></small></b><p>
+ same soldier enhancement program and a close friend: Jack Morrison.</strong></small></b><p>
 <hr>
 
 <center>
 <h4><h1><i><sub><del> Harambe</del> took a bullet for America.</h4></sub></i><br>
 <img src=hanzodragon.gif><br>
 <img src=Genji.gif><br>
+<img src=genjiwins.gif><br>
 <hr>
 <h5><h1><i><ins> R.I.P <del>Harambe<del/></ins></i><br></h5>
 <img src=Winston.gif>
@@ -60,5 +61,54 @@ considering the omnics likely had access to every piece of technology the human 
   <li>Peanutt buttter</li>
   <li>Peanuttt butttter</li>
 </ol>
-<iframe width="750" height="450" src="https://www.youtube.com/embed/KvZ83DoZZZU"></iframe>
+<form name="myForm" action="form_submit.asp" method="get">
+First name: <input type="Harambe" name="fname"><br>
+Last name: <input type="Cincinatti" name="lname"><br><br>
+
+<form action="">
+  <input type="radio" name="gender" value="male"> Male<br>
+  <input type="radio" name="gender" value="female"> Female<br>
+  <input type="radio" name="gender" value="other"> Harambe<br>
+</form>
+
+<form action="action_page.php">
+  First name:<br>
+  <input type="text" name="firstname" value="dolan">
+  <br>
+  Last name:<br>
+  <input type="text" name="lastname" value="doge">
+  <br><br>
+  <input type="submit" value="Submit">
+</form><br>
+
+<p><b><small><strong>A gorilla at Cincinnati Zoo has been shot dead after a boy fell into his enclosure. 
+When I told my wife, a former vice director of a zoo, she first asked if the boy was 
+okay and then said how terrible for the keeper who shot the gorilla. I hadn’t thought
+ about it from the perspective of the zoo keeper who pulled the trigger. But my wife
+ is right: it must have been a terrible thing for that person, something that may 
+ haunt them for the rest of their life.</strong></small></b><p>
+
+
+<p><b><small><strong>From this perspective, the case reminds me of the ending of John Steinbeck’s novel
+ Of Mice and Men when George has to kill his friend Lennie out of love rather than
+ Lennie be killed by a lynch mob. Except that Harambe the gorilla, unlike Lennie, 
+ had not accidentally killed anyone. Watching the video of Harambe dragging the 
+ young boy through the moat was frightening and whether this was done to harm 
+ the child or not, it is clear that the boy’s injuries could have been far worse.</strong></small></b><p>
+
+
+<p><b><small><strong>Yet Harambe was simply doing what any male gorilla would do when confronted 
+with an intruder in his territory. Captive gorillas are trained by their 
+keepers to go to their indoor enclosure on command, but in such an 
+emotionally-charged situation this training does not always work. 
+The two female gorillas responded to the calls of their keepers to 
+go inside, but Harambe did not. When our adrenaline levels are sky 
+high, I’m sure we have all failed to do what we are told.</strong></small></b><p>
+
+
+
+<img src=dubbb.gif>
+
+
+
 </html>
