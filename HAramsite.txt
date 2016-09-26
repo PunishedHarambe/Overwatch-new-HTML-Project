@@ -61,15 +61,16 @@ considering the omnics likely had access to every piece of technology the human 
   <li>Peanutt buttter</li>
   <li>Peanuttt butttter</li>
 </ol>
-<form name="myForm" action="form_submit.asp" method="get">
-First name: <input type="Harambe" name="fname"><br>
-Last name: <input type="Cincinatti" name="lname"><br><br>
+
+<br>
 
 <form action="">
   <input type="radio" name="gender" value="male"> Male<br>
   <input type="radio" name="gender" value="female"> Female<br>
   <input type="radio" name="gender" value="other"> Harambe<br>
 </form>
+
+<br>
 
 <form action="action_page.php">
   First name:<br>
@@ -83,13 +84,13 @@ Last name: <input type="Cincinatti" name="lname"><br><br>
 
 <p><b><small><strong>A gorilla at Cincinnati Zoo has been shot dead after a boy fell into his enclosure. 
 When I told my wife, a former vice director of a zoo, she first asked if the boy was 
-okay and then said how terrible for the keeper who shot the gorilla. I hadn’t thought
+okay and then said how terrible for the keeper who shot the gorilla. I hadnt thought
  about it from the perspective of the zoo keeper who pulled the trigger. But my wife
  is right: it must have been a terrible thing for that person, something that may 
  haunt them for the rest of their life.</strong></small></b><p>
 
 
-<p><b><small><strong>From this perspective, the case reminds me of the ending of John Steinbeck’s novel
+<p><b><small><strong>From this perspective, the case reminds me of the ending of John Steinbecks novel
  Of Mice and Men when George has to kill his friend Lennie out of love rather than
  Lennie be killed by a lynch mob. Except that Harambe the gorilla, unlike Lennie, 
  had not accidentally killed anyone. Watching the video of Harambe dragging the 
@@ -103,12 +104,37 @@ keepers to go to their indoor enclosure on command, but in such an
 emotionally-charged situation this training does not always work. 
 The two female gorillas responded to the calls of their keepers to 
 go inside, but Harambe did not. When our adrenaline levels are sky 
-high, I’m sure we have all failed to do what we are told.</strong></small></b><p>
+high, Im sure we have all failed to do what we are told.</strong></small></b><p>
 
 
 
 <img src=dubbb.gif>
 
+<br>
 
+Secret Illuminati Password : <input type="password" id="myPsw" value="911wasaninsidejob">
 
+<p>Click the button to get the password of the password field.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myPsw").value;
+    document.getElementById("demo").innerHTML = x;
+}
+</script>
+<br>
+
+<p><b><strong>What is your favourite meme to get to work everyday?<br></strong><p>
+
+<form action="">
+<input type="checkbox" name="Meme" value="Bike">Bike<br>
+<input type="checkbox" name="Meme" value="Car">Car<br>
+<input type="checkbox" name="Meme" value="Harambe">Harambe<br>
+<input type="checkbox" name="Meme" value="Wheelchair">Wheelchair<br>
+<input type="checkbox" name="Meme" value="Crippling depression">Crippling depression<br>
+</form>
 </html>
