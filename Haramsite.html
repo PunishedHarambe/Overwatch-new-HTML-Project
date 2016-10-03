@@ -1,5 +1,62 @@
 <!DOCTYPE html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<body>
+
+<div class="w3-container">
+</div>
+
+<ul class="w3-navbar w3-black">
+  <li><a href="About.html" onclick="openCity('London')">About</a></li>
+  <li><a href="#" onclick="openCity('Paris')">Log in</a></li>
+  <li><a href="#" onclick="openCity('Tokyo')">Connect</a></li>
+</ul>
+
+
+
+<script>
+openCity("London")
+function openCity(cityName) {
+    var i;
+    var x = document.getElementsByClassName("city");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";
+    }
+    document.getElementById(cityName).style.display = "block";
+}
+</script>
+
+<title>Welcome</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>Welcome to Haramsite!</h1>
+  <p>A haven of memes.</p>
+  </div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+    
+      
+    </div>
+    <div class="col-sm-4">
+      
+      
+    </div>
+    <div class="col-sm-4">
+      
+      
+    </div>
+  </div>
+</div>
 <title>Haramsite, a haven of memes.</title>
 <!--This is a comment on the official monkey/scientist/winston website-->
 <center>
