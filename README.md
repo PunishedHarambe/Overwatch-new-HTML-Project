@@ -1,1 +1,2 @@
-# Overwatch-new-HTML-Project. This project is about creating a website where you can view high quality memes for free on any subject matter. 
+# Overwatch-new-HTML-Project. This project is about creating a website where you can view high quality memes for free on any subject matter. Currently, my website has many memes on shows, games, and politics. In the future I would like to expand to different subjects such as more games, more shows and more political taboos.
+# Idealy, this website will attract millions of people and viewers and many people will follow it on twitter and facebook so elderly people can see them too.
