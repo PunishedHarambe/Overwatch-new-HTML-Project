@@ -4,7 +4,7 @@
 
 <head>
 
-<eta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="main.css">
 
 <script language="javascript">
@@ -16,13 +16,23 @@ var wrong = "Wrong account"
 var usern = prompt ("Insert username","")
 var passw = prompt ("Insert Password","")
 for (i = 0; i <username.length; i++) {
- if (usern === username[i]) {
-  if (passn === password[i]) {
-   confirm("Welcome back!")
-       }else{confirm("Sorry wrong account")}
-	   }
+	if (usern === username[i]) {
+		if (passw === password[i]) {
+			confirm("Welcome back!")
+			window.onload = function() {
+				document.getElementById("username").innerHTML=usern;
+			}
+		}
+	   else{
+			confirm("Sorry wrong account")
+			window.onload = function() {
+				document.getElementById("wrong").innerHTML=wrong;
+			}
+		}
+	}
 }
- 
+
+
 </script>
 
 </head>
@@ -49,19 +59,7 @@ as you click on them-->
 <!--This is the first text intro to the website-->
 <table>
 <th> Welcome
-<script language="javascript">
-for (i = 0; i <username.length; i++) {
- if (usern === username[i]) {
-  if (passn === password[i]) {
-  window.onload = function() {
-	document.getElementById("username").innerHTML=usern;
-  }
-       }else{window.onload = function() {
-	document.getElementById("wrong").innerHTML=wrong;
-  }}
-}
-}
-</script>
+
 <a id="username"></a><a id="wrong"></a>
 </table>
 <div class="eggnogg">
