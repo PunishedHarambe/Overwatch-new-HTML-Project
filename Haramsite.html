@@ -9,26 +9,47 @@
 
 <script language="javascript">
 
-var username = ["Hello","Bye"]
-var password = ["Bling","Salmon"]
+<!-- This part contains all the usernames and passwords, 3 combinations. -->
+
+var username = ["Snake","Raiden","Professor P.P.Poopypants"]
+var password = ["lalilulelo","MechanizedInfantry","Password"]
+
+<!-- If you get the password wrong then this is what it will say on the home page instead of the username that it would have shown. -->
+
 var wrong = "Wrong account"
 
-var usern = prompt ("Insert username","")
-var passw = prompt ("Insert Password","")
+<!-- These prompts are what let you enter a username and password. --> 
+ var usern = prompt ("Insert username","")
+ var passw = prompt ("Insert Password","")
+ 
+<!-- Determines/sets parameters for username length. -->
+ 
 for (i = 0; i <username.length; i++) {
 	if (usern === username[i]) {
+	
 		if (passw === password[i]) {
-			confirm("Welcome back!")
+		
+		<!-- If you get both the password and username correct than this is what shows in the prompt window. -->
+			confirm("Welcome back, you may now visite the website!")
 			window.onload = function() {
 				document.getElementById("username").innerHTML=usern;
 			}
 		}
 	   else{
-			confirm("Sorry wrong account")
+	   
+	    <!-- If you get the username right but the password wrong then this is what you get. -->
+			confirm("Sorry wrong account, please go away.")
 			window.onload = function() {
 				document.getElementById("wrong").innerHTML=wrong;
 			}
 		}
+	}
+	else {
+	confirm("Please consider how your poor choices in life have led you here, then re-enter your username and password.")
+	window.onload = function() {
+		document.getElementById("wrong").innerHTML=wrong;
+		}
+	break;
 	}
 }
 
